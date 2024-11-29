@@ -1,0 +1,66 @@
+
+
+
+
+#top-bar {
+    background-color: #082a4a;
+}
+
+    /* .card-img-overlay{
+        padding: 200px;
+    } */
+
+.box1{
+background: linear-gradient(to right, #5A154A, #922278);
+
+padding: 30px;
+}
+
+.box2{
+background: linear-gradient(to right, #A13172, #C33E8B);
+padding: 30px;
+}
+
+.box3{
+background: linear-gradient(to right, #E73056, #E95038);
+padding: 30px;
+}
+
+.box4{
+background: linear-gradient(to right, #F28A19, #F9B107);
+padding: 30px;
+}
+
+.box5{
+background: linear-gradient(to right, #77AC43, #94CA5F);
+padding: 30px;
+}
+
+.box6{
+background: linear-gradient(to right, #235683, #048FA3);
+padding: 30px;
+}
+
+.box7{
+background: linear-gradient(to right, #48B2BC, #95D0D3);
+padding: 30px;
+}
+
+.box8{
+background: linear-gradient(to right, #279A96, #2EAEA9);
+padding: 30px;
+}
+
+#feedback{
+    background: #ACBAC8;
+}
+
+footer{
+    background: #082A4A;
+}
+
+
+
+
+
+
